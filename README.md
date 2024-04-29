@@ -5,7 +5,7 @@ a library project. The binaries are `buckets-mdapi` and `schema-manager`.
 
 `buckets-mdapi` is a component of the manta buckets storage system that exposes
 an API for interacting with Manta object metadata using the
-[Fast](https:/github.com/joyent/node-fast) protocol.
+[Fast](https:/github.com/TritonDataCenter/node-fast) protocol.
 
 `schema-manager` is a tool that performs the necessary database configuration
 to ensure the database is properly prepared for `buckets-mdapi`. Each time it
